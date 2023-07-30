@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=30&center=true&vCenter=true&width=1000&lines=Hi,+My+name+is+Poliana+Santos;I'm+a+Back-end+Developer;I'm+a+Front-end+Developer;I'm+a+Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=polianams&bg_color=0d1117&color=7e22ce&line=7e22ce&point=7e22c0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=polianams&show_icons=true&count_private=true&hide_border=true&title_color=7e22ce&icon_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" alt="Poliana Santos github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polianams&layout=compact&hide_border=true&title_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" />
