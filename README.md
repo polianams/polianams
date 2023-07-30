@@ -21,9 +21,9 @@
 
 ## Projects:
 Here are some of my recently developed projects:
-
+  
 ✔️ [InfoJr](https://github.com/polianams/infojr-treinee): 8 projects developed in a junior university technology company.
-✔️ [Portfolio](https://github.com/polianams/): repository under construction.
 
+✔️ [Portfolio](https://github.com/polianams/): repository under construction.
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=120&section=footer"/>
