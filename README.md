@@ -40,6 +40,6 @@ Here are some of my recently developed projects:
   
 ✔️ [InfoJr](https://github.com/polianams/infojr-treinee): 8 projects developed in a junior university technology company.
 
-✔️ [Web Dev Playground]([https://github.com/polianams/](https://github.com/polianams/web-dev-playground)): repository under construction.
+✔️ [Web Dev Playground](https://github.com/polianams/web-dev-playground): repository under construction.
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=120&section=footer"/>
