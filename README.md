@@ -47,7 +47,7 @@ Atualmente, sou Desenvolvedora Full Stack em uma empresa de tecnologia júnior, 
 
 Aqui estão alguns dos meus recentes repositórios e principais projetos desenvolvidos:
 
-✔️ [Projeto Back-End - API Banco](https://github.com/polianams/web-dev-playground): Nesse projeto desenvolvi uma API para um Banco Digital;
+✔️ [Projeto Back-End - API Banco](https://github.com/polianams/web-dev-playground): Nesse projeto desenvolvi uma API REST para um Banco Digital fictício;
 
 ✔️ [Projetos Front-End](https://github.com/polianams/web-dev-playground): São diversos projetos que venho desenvolvendo para aprimorar minhas habilidades em HTML5, CSS3 e Javascript;
 
