@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Poliana+Santos;Eu+sou+Desenvolvedora+Back-end;Eu+sou+Desenvolvedora+Front-end;Eu+sou+Desenvolvedora+Full+Stack;Seja+Bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 
+## Sobre mim:
+
+Bacharel em Física, apaixonada por astrofísica e colecionadora de Rubik's Cube.
+
+Atualmente, sou Desenvolvedora Full Stack em uma empresa de tecnologia júnior, onde tenho a oportunidade de desenvolver projetos em equipe utilizando ferramentas como Next.js, React.js, Node.js, Express e Prisma, principalmente em JavaScript e TypeScript.
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=polianams&show_icons=true&count_private=true&hide_border=true&title_color=7e22ce&icon_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" alt="Poliana Santos github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polianams&layout=compact&hide_border=true&title_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" />
