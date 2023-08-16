@@ -49,7 +49,7 @@ Aqui estão alguns dos meus recentes repositórios e principais projetos desenvo
   
 ✔️ [InfoJr](https://github.com/polianams/infojr-treinee): São 8 projetos desenvolvidos em uma empresa junior de tecnologia da minha universidade.
 
-✔️ [Projetos Front-End](https://github.com/polianams/web-dev-playground): São diversos projetos que venho desenvolvendo para aprimorar minhas habilidades em HTML, CSS e JS.
+✔️ [Projetos Front-End](https://github.com/polianams/web-dev-playground): São diversos projetos que venho desenvolvendo para aprimorar minhas habilidades em HTML5, CSS3 e Javascript.
 
 ✔️ [Projetos Back-End](https://github.com/polianams/web-dev-playground): Espaço criado para desenvolver meus projetos Back-end.
 
