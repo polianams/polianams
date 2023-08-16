@@ -1,9 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Poliana+Santos;Eu+sou+Desenvolvedora+Back-end;Eu+sou+Desenvolvedora+Front-end;Eu+sou+Desenvolvedora+Full+Stack;Seja+Bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
-
+<div align="center">
+  
 ## Sobre mim:
-
+</div>
 Bacharel em Física, apaixonada por astrofísica e colecionadora de Rubik's Cube.
 
 Atualmente, sou Desenvolvedora Full Stack em uma empresa de tecnologia júnior, onde tenho a oportunidade de desenvolver projetos em equipe utilizando ferramentas como Next.js, React.js, Node.js, Express e Prisma, principalmente em JavaScript e TypeScript.
@@ -41,6 +42,9 @@ Atualmente, sou Desenvolvedora Full Stack em uma empresa de tecnologia júnior, 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## Projetos e Principais Repositórios:
+
+</div>
+
 Aqui estão alguns dos meus recentes repositórios e principais projetos desenvolvidos:
   
 ✔️ [InfoJr](https://github.com/polianams/infojr-treinee): São 8 projetos desenvolvidos em uma empresa junior de tecnologia da minha universidade.
@@ -48,6 +52,6 @@ Aqui estão alguns dos meus recentes repositórios e principais projetos desenvo
 ✔️ [Projetos Front-End](https://github.com/polianams/web-dev-playground): São diversos projetos que venho desenvolvendo para aprimorar minhas habilidades em HTML, CSS e JS.
 
 ✔️ [Projetos Back-End](https://github.com/polianams/web-dev-playground): Espaço criado para desenvolver meus projetos Back-end.
-</div>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=120&section=footer"/>
