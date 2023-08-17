@@ -47,7 +47,7 @@ Atualmente, sou Desenvolvedora Full Stack em uma empresa de tecnologia júnior, 
 
 Aqui estão alguns dos meus recentes repositórios e principais projetos desenvolvidos:
 
-✔️ [Projeto Full Stack: Pokedex](https://github.com/polianams/infojr-treinee/tree/main/7-pokedex): Nesse projeto Full Stack é possível criar uma conta, fazer login, listar, pesquisar e favoritar mais de 1000 Pokémons.
+✔️ [Projeto Full Stack: Pokedex](https://github.com/polianams/pokedex): Nesse projeto Full Stack é possível criar uma conta, fazer login, listar, pesquisar e favoritar mais de 1000 Pokémons.
 
 ✔️ [Projetos Front-End](https://github.com/polianams/web-dev-playground): São diversos projetos que venho desenvolvendo para aprimorar minhas habilidades em HTML5, CSS3 e Javascript;
 
