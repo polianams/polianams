@@ -50,7 +50,7 @@ Aqui estão alguns dos meus recentes repositórios e principais projetos desenvo
 
 ✔️ [Projeto Full Stack: Pokedex](https://github.com/polianams/pokedex): Nesse projeto Full Stack é possível criar uma conta, fazer login, listar, pesquisar e favoritar mais de 1000 Pokémons.
 
-✔️ [Projeto Back-end: API - Banco Digital](https://github.com/polianams/api-banco-digital): É um projeto de um banco digital utilizando Javascript, Express, Node.js e API REST;
+✔️ [Projeto Back-end: API - Banco Digital](https://github.com/polianams/api-banco-digital): É um projeto CRUD de um banco digital utilizando Javascript, Express, Node.js e API REST, onde é possível criar contas, depositar, realizar transações entre contas e muito mais;
 
 ✔️ [InfoJr](https://github.com/polianams/infojr-treinee): São 8 projetos desenvolvidos em uma empresa junior de tecnologia da minha universidade.
 
