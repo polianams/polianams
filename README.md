@@ -5,8 +5,10 @@
   
 ## Sobre mim:
 </div>
+
 Bacharel em Física, apaixonada por astrofísica e colecionadora de Rubik's Cube.
-  
+
+
 Atualmente, sou Desenvolvedora Full Stack em uma empresa de tecnologia júnior, onde tenho a oportunidade de desenvolver projetos em equipe utilizando ferramentas como Next.js, React.js, Node.js, Express e Prisma, principalmente em JavaScript e TypeScript.
 
 Meu objetivo profissional é seguir a carreira de Desenvolvedora de Software, com foco em Back-end ou Full Stack.
