@@ -6,6 +6,8 @@
 ## Sobre mim:
 </div>
 
+<img align="right" height="200" style="margin-left: 25px" src="https://i.imgur.com/Tznn1IZ.gif"/>
+
 Bacharel em Física, apaixonada por astrofísica e colecionadora de Rubik's Cube.
 
 
