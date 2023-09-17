@@ -5,8 +5,6 @@
   
 ## Sobre mim:
 </div>
-<br>
-<br>
 
 <!-- SOBRE -->
  ```
@@ -19,8 +17,6 @@ Node.js, Express e Prisma, principalmente em JavaScript e TypeScript.
 🚀      Meu objetivo profissional é seguir a carreira de Desenvolvedora de Software, com foco em Back-end
 ou Full Stack.
 ```
-<br>
-<br>
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=polianams&show_icons=true&count_private=true&hide_border=true&title_color=7e22ce&icon_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" alt="Poliana Santos github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polianams&layout=compact&hide_border=true&title_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" />
