@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Poliana+Santos;Eu+sou+Desenvolvedora+Back-end;Eu+sou+Desenvolvedora+Front-end;Eu+sou+Desenvolvedora+Full+Stack;Seja+Bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
 <div align="center">
   
-## Sobre mim:
+## Sobre mim
 </div>
 
 <!-- SOBRE -->
@@ -30,7 +30,7 @@ ou Full Stack.
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a> 
 
- ## Principais Tecnologias e Linguagens de Programação:
+ ## Principais Tecnologias e Linguagens de Programação
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Node Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Next Js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -48,15 +48,21 @@ ou Full Stack.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Projetos e Principais Repositórios:
+## Projetos
+
+| <img src="https://github.com/polianams/pokedex/blob/main/assets/pokedex.gif" width="420"> | <img src="https://github.com/polianams/api-banco-digital/blob/main/assets/banco-digital-1.gif" width="360"> |
+|:---:|:---:|
+| [Projeto Full Stack: Pokedex](https://github.com/polianams/pokedex) | [Projeto Back-end: API - Banco digital (CRUD)](https://github.com/polianams/api-banco-digital) |
 
 </div>
-
-Aqui estão alguns dos meus recentes repositórios e principais projetos desenvolvidos:
 
 ✔️ [Projeto Full Stack: Pokedex](https://github.com/polianams/pokedex): Nesse projeto Full Stack é possível criar uma conta, fazer login, listar, pesquisar e favoritar mais de 1000 Pokémons.
 
 ✔️ [Projeto Back-end: API - Banco Digital](https://github.com/polianams/api-banco-digital): É um projeto CRUD de um banco digital utilizando Javascript, Express, Node.js e API REST, onde é possível criar contas, depositar, realizar transações entre contas bancárias e muito mais;
+
+## Principais Repositorios
+
+</div>
 
 ✔️ [InfoJr](https://github.com/polianams/infojr-treinee): São 8 projetos desenvolvidos em uma empresa junior de tecnologia da minha universidade.
 
