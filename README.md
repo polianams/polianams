@@ -48,7 +48,7 @@ ou Full Stack.
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-## Projetos
+## Principais Projetos
 
 | <img src="https://github.com/polianams/pokedex/blob/main/assets/pokedex.gif" width="420"> | <img src="https://github.com/polianams/api-banco-digital/blob/main/assets/banco-digital-1.gif" width="360"> |
 |:---:|:---:|
@@ -60,7 +60,8 @@ ou Full Stack.
 
 ✔️ [Projeto Back-end: API - Banco Digital](https://github.com/polianams/api-banco-digital): É um projeto CRUD de um banco digital utilizando Javascript, Express, Node.js e API REST, onde é possível criar contas, depositar, realizar transações entre contas bancárias e muito mais;
 
-<div align="center"> 
+<div align="center">
+
 ## Principais Repositorios
 </div>
 
