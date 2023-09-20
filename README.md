@@ -60,8 +60,8 @@ ou Full Stack.
 
 ✔️ [Projeto Back-end: API - Banco Digital](https://github.com/polianams/api-banco-digital): É um projeto CRUD de um banco digital utilizando Javascript, Express, Node.js e API REST, onde é possível criar contas, depositar, realizar transações entre contas bancárias e muito mais;
 
+<div align="center"> 
 ## Principais Repositorios
-
 </div>
 
 ✔️ [InfoJr](https://github.com/polianams/infojr-treinee): São 8 projetos desenvolvidos em uma empresa junior de tecnologia da minha universidade.
