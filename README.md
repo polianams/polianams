@@ -1,15 +1,12 @@
 # Olá, meu nome é Poliana 👋
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-<div align="justify">
-<br>
-👩‍🎓  Bacharel em Física, apaixonada por astrofísica e colecionadora de Rubik's Cube.
-
-👩‍💻  Atualmente, sou Desenvolvedora Full Stack em uma empresa de tecnologia júnior, onde tenho a oportunidade
-de desenvolver projetos em equipe utilizando ferramentas como Next.js, React.js, Node.js, Express e Prisma, principalmente em JavaScript e TypeScript.
+<p align="justify"> 👩‍🎓  Bacharel em Física, apaixonada por astrofísica e colecionadora de Rubik's Cube.
+ 
+👩‍💻  Atualmente, sou Desenvolvedora Full Stack em uma empresa de tecnologia júnior, onde tenho a oportunidade de desenvolver projetos em equipe utilizando ferramentas como Next.js, React.js, Node.js, Express e Prisma, principalmente em JavaScript e TypeScript.
 
 🚀  Meu objetivo profissional é seguir a carreira de Desenvolvedora de Software, com foco em Back-end ou Full Stack.
-</div>
+</p>
 
  ## Contato:
 
