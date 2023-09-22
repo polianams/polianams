@@ -1,22 +1,29 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=120&section=header"/>
+# Olá, meu nome é Poliana 👋
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7e22ce&size=30&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Poliana+Santos;Eu+sou+Desenvolvedora+Back-end;Eu+sou+Desenvolvedora+Front-end;Eu+sou+Desenvolvedora+Full+Stack;Seja+Bem-vindo(a)+ao+meu+perfil!+:%29)](https://git.io/typing-svg)
-<div align="center">
-  
-## Sobre mim
+<div align="right">
 </div>
+<br>
+<br>
 
 <!-- SOBRE -->
  ```
-👩‍🎓      Bacharel em Física, apaixonada por astrofísica e colecionadora de Rubik's Cube.
+👩‍🎓      Bacharel em Física, apaixonada por astrofísica e colecionadora
+de Rubik's Cube.
 
-👩‍💻      Atualmente, sou Desenvolvedora Full Stack em uma empresa de tecnologia júnior, onde tenho a
-oportunidade de desenvolver projetos em equipe utilizando ferramentas como Next.js, React.js,
-Node.js, Express e Prisma, principalmente em JavaScript e TypeScript.
+👩‍💻      Atualmente, sou Desenvolvedora Full Stack em uma empresa de
+tecnologia júnior, onde tenho a oportunidade de desenvolver projetos em
+equipe utilizando ferramentas como Next.js, React.js, Node.js, Express
+e Prisma, principalmente em JavaScript e TypeScript.
 
-🚀      Meu objetivo profissional é seguir a carreira de Desenvolvedora de Software, com foco em Back-end
-ou Full Stack.
+🚀      Meu objetivo profissional é seguir a carreira de Desenvolvedora
+de Software, com foco em Back-end ou Full Stack.
 ```
+<br>
+<br>
+<br>
+<br>
+
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=polianams&show_icons=true&count_private=true&hide_border=true&title_color=7e22ce&icon_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" alt="Poliana Santos github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polianams&layout=compact&hide_border=true&title_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" />
@@ -60,11 +67,3 @@ ou Full Stack.
 
 ✔️ [Projeto Back-end: API - Banco Digital](https://github.com/polianams/api-banco-digital): É um projeto CRUD de um banco digital utilizando Javascript, Express, Node.js e API REST, onde é possível criar contas, depositar, realizar transações entre contas bancárias e muito mais;
 
-<div align="center">
-
-## Principais Repositorios
-</div>
-
-✔️ [InfoJr](https://github.com/polianams/infojr-treinee): São 8 projetos desenvolvidos em uma empresa junior de tecnologia da minha universidade.
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e22ce&height=120&section=footer"/>
