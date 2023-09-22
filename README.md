@@ -1,12 +1,11 @@
 # Olá, meu nome é Poliana 👋
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-<p align="justify"> 👩‍🎓  Bacharel em Física, apaixonada por astrofísica e colecionadora de Rubik's Cube.
+<p align="justify"> 👩‍🎓  Bacharel em Física, apaixonada por astrofísica e colecionadora de Rubik's Cube.</p>
  
-👩‍💻  Atualmente, sou Desenvolvedora Full Stack em uma empresa de tecnologia júnior, onde tenho a oportunidade de desenvolver projetos em equipe utilizando ferramentas como Next.js, React.js, Node.js, Express e Prisma, principalmente em JavaScript e TypeScript.
+<p align="justify">👩‍💻  Atualmente, sou Desenvolvedora Full Stack em uma empresa de tecnologia júnior, onde tenho a oportunidade de desenvolver projetos em equipe utilizando ferramentas como Next.js, React.js, Node.js, Express e Prisma, principalmente em JavaScript e TypeScript.</p>
 
-🚀  Meu objetivo profissional é seguir a carreira de Desenvolvedora de Software, com foco em Back-end ou Full Stack.
-</p>
+<p align="justify">🚀  Meu objetivo profissional é seguir a carreira de Desenvolvedora de Software, com foco em Back-end ou Full Stack.</p>
 
  ## 📧 Contato
 
@@ -34,10 +33,11 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 🚀 Principais Projetos
-
+<div align="center">
+ 
 | <img src="https://github.com/polianams/pokedex/blob/main/assets/pokedex.gif" width="420"> | <img src="https://github.com/polianams/api-banco-digital/blob/main/assets/banco-digital-1.gif" width="360"> |
 |:---:|:---:|
-| [Projeto Full Stack: Pokedex](https://github.com/polianams/pokedex) | [Projeto Back-end: API - Banco digital (CRUD)](https://github.com/polianams/api-banco-digital) |
+| [🔍 Projeto Full Stack: Pokedex](https://github.com/polianams/pokedex) | [🏦Projeto Back-end: API - Banco digital (CRUD)](https://github.com/polianams/api-banco-digital) |
 
 </div>
 
