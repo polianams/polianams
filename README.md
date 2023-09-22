@@ -10,9 +10,7 @@ de desenvolver projetos em equipe utilizando ferramentas como Next.js, React.js,
 
 🚀  Meu objetivo profissional é seguir a carreira de Desenvolvedora de Software, com foco em Back-end ou Full Stack.
 </div>
-<br>
-<br>
- 
+
  ## Contato:
 
 <a href="https://www.linkedin.com/in/polianams/" target="_blank">
