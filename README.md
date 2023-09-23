@@ -40,13 +40,7 @@
 | [🔍 Projeto Full Stack: Pokedex](https://github.com/polianams/pokedex) | [🏦Projeto Back-end: API - Banco digital (CRUD)](https://github.com/polianams/api-banco-digital) |
 | <img src="https://github.com/polianams/festival-inkigayo/blob/main/assets/festival.gif" width="420"> | <img src="https://github.com/polianams/api-banco-digital/blob/main/assets/banco-digital-1.gif" width="360"> |
 | [🎤 Projeto Full Stack: Festival Inkigayo](https://github.com/polianams/festival-inkigayo) | [💰 Projeto Back-end: API - Finanças ](https://github.com/polianams/api-finanças) |
-
 </div>
-
-✔️ [Projeto Full Stack: Pokedex](https://github.com/polianams/pokedex): Nesse projeto Full Stack é possível criar uma conta, fazer login, listar, pesquisar e favoritar mais de 1000 Pokémons.
-
-✔️ [Projeto Back-end: API - Banco Digital](https://github.com/polianams/api-banco-digital): É um projeto CRUD de um banco digital utilizando Javascript, Express, Node.js e API REST, onde é possível criar contas, depositar, realizar transações entre contas bancárias e muito mais;
-
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=polianams&show_icons=true&count_private=true&hide_border=true&title_color=7e22ce&icon_color=7e22ce&text_color=c9d1d9&bg_color=0d1117" alt="Poliana Santos github stats" /> 
