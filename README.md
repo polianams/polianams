@@ -38,6 +38,8 @@
 | <img src="https://github.com/polianams/pokedex/blob/main/assets/pokedex.gif" width="420"> | <img src="https://github.com/polianams/api-banco-digital/blob/main/assets/banco-digital-1.gif" width="360"> |
 |:---:|:---:|
 | [🔍 Projeto Full Stack: Pokedex](https://github.com/polianams/pokedex) | [🏦Projeto Back-end: API - Banco digital (CRUD)](https://github.com/polianams/api-banco-digital) |
+| <img src="https://github.com/polianams/festival-inkigayo/blob/main/assets/festival.gif" width="420"> | <img src="https://github.com/polianams/api-banco-digital/blob/main/assets/banco-digital-1.gif" width="360"> |
+| [🎤 Projeto Full Stack: Festival Inkigayo](https://github.com/polianams/festival-inkigayo) | [🏦Projeto Back-end: API - Finanças ](https://github.com/polianams/api-finanças) |
 
 </div>
 
