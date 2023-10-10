@@ -1,11 +1,45 @@
-# Olá, meu nome é Poliana 👋
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
+<div style="display: inline_block">
 
-<p align="justify"> 👩‍🎓  Sou Bacharel em Física, apaixonada por astrofísica e colecionadora de Rubik's Cube.</p>
- 
-<p align="justify">👩‍💻  Atualmente, sou Desenvolvedora Full Stack em uma empresa de tecnologia júnior, onde tenho a oportunidade de desenvolver projetos em equipe utilizando ferramentas como Next.js, React.js, Node.js, Express e Prisma, principalmente em JavaScript e TypeScript.</p>
+  <p width="100"> 👋 Hello, I’m Poliana Santos and I appreciate your visit to my portfolio!</p>
+</div>
+</div>
 
-<p align="justify">🚀  Meu objetivo profissional é seguir a carreira de Desenvolvedora de Software, com foco em Back-end ou Full Stack.</p>
+<div align="center">
+
+### My technical skills
+
+<br>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" /> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="55" height="55"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="55" height="55" />  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" width="50" height="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" width="50" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" width="50" height="50">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" height="50">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/
+ <img serc=https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png>
+</div>  
+
+  <div style="display: inline_block">
+  
+  <div align="center">
+  
+  ### My soft skills
+
+✨I hold a Bachelor's degree in Physics from the Federal University of Bahia (UFBA) and am passionate about astrophysics, as well as a Rubik's Cube enthusiast. Throughout my journey, I've participated in intensive bootcamps in web development and quality analysis to enhance my skills. Currently, I'm working as a voluntary Web Developer at a UFBA Junior Enterprise, and I'm also a member of the marketing team, promoting solutions. I am an analytical person with strong teamwork skills and a passion for problem-solving. My primary goal is to secure an opportunity in the field of back-end software development and build a solid career in a company that offers growth prospects.✨
+
+</div>
+</div>
+  
+  
+<div align="center">
+    
+ ### Reach me at
 
  ## 📧 Contato
 
@@ -16,23 +50,9 @@
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a> 
 
- ## 🛠️ Principais Tecnologias e Linguagens de Programação
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Node Js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Next Js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Prisma](https://img.shields.io/badge/prisma-%2320232a.svg?style=for-the-badge&logo=prisma&logoColor=%2361DAFB)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Express](https://img.shields.io/badge/express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
-## 🚀 Principais Projetos
+### Projects
 <div align="center">
  
 | <img src="https://github.com/polianams/pokedex/blob/main/assets/pokedex.gif" width="420"> | <img src="https://github.com/polianams/api-banco-digital/blob/main/assets/banco-digital-1.gif" width="360"> |
