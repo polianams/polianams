@@ -1,5 +1,8 @@
+<div align="center"> 
+  
+### About me
+  
 <div style="display: inline_block">
-
   <p width="100"> 👋 Hello, I’m Poliana Santos and I appreciate your visit to my portfolio!</p>
 </div>
 </div>
