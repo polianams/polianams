@@ -31,9 +31,9 @@
   
   <div align="center">
   
-  ### My soft skills
+  ### Minhas soft skills
 
-✨I hold a Bachelor's degree in Physics from the Federal University of Bahia (UFBA) and am passionate about astrophysics, as well as a Rubik's Cube enthusiast. Throughout my journey, I've participated in intensive bootcamps in web development and quality analysis to enhance my skills. Currently, I'm working as a voluntary Web Developer at a UFBA Junior Enterprise, and I'm also a member of the marketing team, promoting solutions. I am an analytical person with strong teamwork skills and a passion for problem-solving. My primary goal is to secure an opportunity in the field of back-end software development and build a solid career in a company that offers growth prospects.✨
+✨ Sou bacharel em Física pela Universidade Federal da Bahia (UFBA), apaixonada por astrofísica, além de ser um entusiasta de Rubik's Cube. Ao longo da minha jornada, participei de bootcamps intensivos em desenvolvimento web e análise de qualidade para aprimorar minhas habilidades. Atualmente, estou trabalhando como Desenvolvedora Web voluntária em uma Empresa Júnior de tecnologia na UFBA, além de ser integrante da diretoria de marketing, contribuindo para estratégias de divulgação e branding. Sou uma pessoa analítica com fortes habilidades em trabalho em equipe e uma paixão por solucionar problemas. Meu principal objetivo é garantir uma oportunidade no campo de desenvolvimento de software com foco em back-end e construir uma carreira sólida em uma empresa que ofereça perspectivas de crescimento. ✨
 
 </div>
 </div>
@@ -41,7 +41,7 @@
   
 <div align="center">
     
- ### Reach me at
+ ### Contacte-me
 
 <a href="https://www.linkedin.com/in/polianams/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
@@ -50,7 +50,7 @@
   <img alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 </a> 
 
-### Projects
+### Principais Projetos
  
 | <img src="https://github.com/polianams/pokedex/blob/main/assets/pokedex.gif" width="420"> | <img src="https://github.com/polianams/api-banco-digital/blob/main/assets/banco-digital-1.gif" width="360"> |
 |:---:|:---:|
