@@ -1,26 +1,30 @@
 <div align="center"> 
   
-### About me
+### Sobre mim
   
 <div style="display: inline_block">
-  <p width="100"> 👋 Hello, I’m Poliana Santos and I appreciate your visit to my portfolio!</p>
+  <p width="100"> 👋 Olá, Eu sou Poliana Santos e bem vindo(a) ao meu portifólio!</p>
 </div>
 </div>
 
 <div align="center">
 
-### My technical skills
+### Minhas Habilidades Técnicas 
 
 <br>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="50" height="50"/>  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="50" height="50" /> 
+ <img src="https://icongr.am/devicon/nodejs-original.svg" width="50" height="50" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" width="50" height="50" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="50" height="50" />
+ <img src="https://icongr.am/devicon/react-original-wordmark.svg" width="50" height="50" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" width="50" height="50" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" width="50" height="50">
+ <img src="https://icongr.am/devicon/express-original.svg" width="50" height="50" color="black" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" height="50">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/
+ <img src="https://icongr.am/devicon/python-original.svg" width="50" height="50">
+ <img src="https://icongr.am/devicon/cplusplus-original.svg" width="50" height="50">
 </div>  
 
   <div style="display: inline_block">
