@@ -42,11 +42,4 @@
 
 <a href="https://www.linkedin.com/in/polianams/" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
-</a> 
-
-### Principais Projetos
- 
-| <img src="https://github.com/polianams/api-banco-digital/blob/main/assets/banco-digital-1.gif" width="360"> | [🏦Projeto Back-end: API - Banco digital (CRUD)](https://github.com/polianams/api-banco-digital) <br> Principais Tecnologias: Javascript, NodeJs, Express </br> |
-| <img src="https://github.com/polianams/festival-inkigayo/blob/main/assets/festival.gif" width="420"> | <img src="https://github.com/polianams/api-banco-digital/blob/main/assets/banco-digital-1.gif" width="360"> |
-| [🎤 Projeto Full Stack: Festival Inkigayo](https://github.com/polianams/festival-inkigayo) <br> Principais Tecnologias: NextJs, Typescript, Prisma </br> | [💰 Projeto Back-end: API - Finanças ](https://github.com/polianams/api-financas) <br> Principais Tecnologias: Javascript, PostgreSQL, Bcrypt, Express </br>|
-</div>
+</a>
