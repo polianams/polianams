@@ -46,8 +46,9 @@
 
 ### Principais projetos:
 
-<a href="https://github.com/polianams/api-financas" target="_blank">💰 Back-end - API REST: Sistema de Finanças (Javascript, NodeJS, PostgreSQL)</a>
-<div style="display: inline_block">
-<a href="https://github.com/polianams/api-banco-digital" target="_blank">🏦 Back-end - API REST: Banco Digital (Javascript, NodeJS, Express)</a>
-<div style="display: inline_block">
-<a href="https://github.com/polianams/pokedex" target="_blank">🔎 FullStack - Pokedex (NextJS, Typescript, NodeJS, Prisma)</a>
+<a href="https://github.com/polianams/api-financas">💰 Back-end - API REST: Sistema de Finanças (Javascript, NodeJS, PostgreSQL)</a>
+<br>
+<a href="https://github.com/polianams/api-banco-digital">🏦 Back-end - API REST: Banco Digital (Javascript, NodeJS, Express)</a>
+<br>
+<a href="https://github.com/polianams/pokedex">🔎 FullStack - Pokedex (NextJS, Typescript, NodeJS, Prisma)</a>
+</div>
