@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank">
 </a>
 
-### Principais projetos:
+### Principais projetos
 
 <a href="https://github.com/polianams/api-financas">💰 Back-end - API REST: Sistema de Finanças (Javascript, NodeJS, PostgreSQL)</a>
 <br>
