@@ -47,6 +47,4 @@
 <a href="https://github.com/polianams/api-financas">💰 Back-end - API REST: Sistema de Finanças (Javascript, NodeJS, PostgreSQL)</a>
 <br>
 <a href="https://github.com/polianams/api-banco-digital">🏦 Back-end - API REST: Banco Digital (Javascript, NodeJS, Express)</a>
-<br>
-<a href="https://github.com/polianams/pokedex">🔎 FullStack - Pokedex (NextJS, Typescript, NodeJS, Prisma)</a>
 </div>
