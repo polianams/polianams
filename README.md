@@ -43,8 +43,9 @@
 </a>
 
 ### Principais projetos
-
-<a href="https://github.com/polianams/api-financas">💰 Back-end - API REST: Sistema de Finanças (Javascript, NodeJS, PostgreSQL)</a>
+<a href="https://github.com/polianams/api-pdv">💰 Back-end - API REST: Sistema PDV (Javascript, NodeJS, Express, PostgreSQL, Knex)</a>
+<br>
+<a href="https://github.com/polianams/api-financas">💰 Back-end - API REST: Sistema de Finanças (Javascript, NodeJS, Express, PostgreSQL)</a>
 <br>
 <a href="https://github.com/polianams/api-banco-digital">🏦 Back-end - API REST: Banco Digital (Javascript, NodeJS, Express)</a>
 </div>
