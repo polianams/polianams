@@ -43,7 +43,7 @@
 </a>
 
 ### Principais projetos
-<a href="https://github.com/polianams/api-pdv">💰 Back-end - API REST: Sistema PDV (Javascript, NodeJS, Express, PostgreSQL, Knex)</a>
+<a href="https://github.com/polianams/api-pdv">🛒 Back-end - API REST: Sistema PDV (Javascript, NodeJS, Express, PostgreSQL, Knex)</a>
 <br>
 <a href="https://github.com/polianams/api-financas">💰 Back-end - API REST: Sistema de Finanças (Javascript, NodeJS, Express, PostgreSQL)</a>
 <br>
