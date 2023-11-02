@@ -48,7 +48,7 @@
 <br>
 ( SWAPI | Prisma | PostgreSQL | Typescript | Jest)
 <br>
-  
+<br>
 <a href="https://github.com/polianams/api-clinic">💊 Back-end - API REST: Sistema de um Consultório</a> (EM DESENVOLVIMENTO 🚧)
 <br>
 (Prisma | PostgreSQL | Typescript | Jest)
@@ -58,6 +58,7 @@
 <a href="https://github.com/polianams/api-pdv">🛒 Back-end - API REST: Sistema PDV</a>
 <br>
 (Javascript | NodeJS | Express | PostgreSQL | Knex)
+<br>
 <br>
 
 <a href="https://github.com/polianams/api-financas">💰 Back-end - API REST: Sistema de Finanças</a>
