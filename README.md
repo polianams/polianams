@@ -46,7 +46,7 @@
 </div>
 <a href="https://github.com/polianams/api-star-wars">⚔️ Back-end - API REST: Star Wars</a> (EM DESENVOLVIMENTO 🚧)
 <br>
-( [SWAPI](https://swapi.dev/) | Prisma | PostgreSQL | Typescript | Jest)
+( SWAPI | Prisma | PostgreSQL | Typescript | Jest)
 <br>
   
 <a href="https://github.com/polianams/api-clinic">💊 Back-end - API REST: Sistema de um Consultório</a> (EM DESENVOLVIMENTO 🚧)
