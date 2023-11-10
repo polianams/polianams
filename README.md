@@ -46,24 +46,24 @@
 </div>
 <a href="https://github.com/polianams/api-star-wars">⚔️ Back-end - API REST: Star Wars</a> (EM DESENVOLVIMENTO 🚧)
 <br>
-( SWAPI | Prisma | PostgreSQL | Typescript | Jest)
+( SWAPI | Prisma | PostgreSQL | Typescript )
 <br>
 <br>
 <a href="https://github.com/polianams/api-clinic">💊 Back-end - API REST: Sistema de um Consultório</a> (EM DESENVOLVIMENTO 🚧)
 <br>
-(Prisma | PostgreSQL | Typescript | Jest)
+( Prisma | PostgreSQL | Typescript )
 <br>
 
 <br>
 <a href="https://github.com/polianams/api-pdv">🛒 Back-end - API REST: Sistema PDV</a>
 <br>
-(Javascript | NodeJS | Express | PostgreSQL | Knex)
+( Javascript | NodeJS | Express | PostgreSQL | Knex )
 <br>
 <br>
 
 <a href="https://github.com/polianams/api-financas">💰 Back-end - API REST: Sistema de Finanças</a>
 <br>
-(Javascript | NodeJS | Express | PostgreSQL)
+( Javascript | NodeJS | Express | PostgreSQL )
 <br>
 
 <a href="https://github.com/polianams/api-banco-digital">🏦 Back-end - API REST: Banco Digital</a>
