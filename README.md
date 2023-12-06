@@ -27,14 +27,6 @@
 <div style="display: inline_block">
   
 <div align="center">
-  
-### Minhas Soft Skills
-
-✨ Sou bacharel em Física pela Universidade Federal da Bahia (UFBA), apaixonada por astrofísica e entusiasta de Rubik's Cube. Ao longo da minha jornada, participei de bootcamps intensivos em desenvolvimento de software e análise de dados para aprimorar minhas habilidades técnicas. Atualmente, sou Desenvolvedora Web voluntária em uma Empresa Júnior de tecnologia na UFBA, além de ser integrante da diretoria de marketing, contribuindo para estratégias de divulgação e branding. Sou uma pessoa analítica com fortes habilidades em trabalho em equipe e uma paixão por solucionar problemas. Meu principal objetivo é garantir uma oportunidade no campo de desenvolvimento de software com foco em back-end e construir uma carreira sólida em uma empresa que ofereça perspectivas de crescimento na área. ✨
-
-</div>
-  
-<div align="center">
     
  ### Entre em contato comigo
 
